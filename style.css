@@ -5,3 +5,22 @@
 .navbar-brand {
     color: #fefefe;
 }
+.row{
+    background-image: url(assets/Illustration-header.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+    background-color: #1c1a19;
+}
+.text-warning{
+    color:#f55800 !important;
+}
+
+
+
+
+
+.intro{
+    padding: 192px 0px;
+    gap: 24px;
+}
