@@ -5,22 +5,27 @@
 .navbar-brand {
     color: #fefefe;
 }
-.row{
+.intro-row{
     background-image: url(assets/Illustration-header.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: contain;
     background-color: #1c1a19;
 }
-.text-warning{
-    color:#f55800 !important;
-}
-
-
-
-
 
 .intro{
     padding: 192px 0px;
     gap: 24px;
+}
+
+.abt-container{
+    background-image: url(assets/about-me-desktop.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+    background-size: 40%;
+    background-position-y: 100px;
+}
+.abt-cont{
+    padding: 192px 0;
 }
